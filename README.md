@@ -80,7 +80,6 @@ The application uses the MySQL database with the following structure:
 1. **Clone this Repository**:
    ```bash
    git clone https://github.com/Babariyayash/E-Commerce-PythonStore.git
-   cd ecommerce-store
    ```
 
 2. **Set Up MySQL Database**:
